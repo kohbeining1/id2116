@@ -2,24 +2,32 @@ body
   {background-color:#F7F9F8}
 
 h1
-  {color:#F3B54A}
+  {color:#F3B54A;
+  text-align: center;}
 
 p
   {font-family:Arial, Helvetica, sans-serif;
    font: size 12px;
-   color:#393B45 }
+   color:#393B45;
+   text-align: center; }
 
 body
   {font-family:Arial, Helvetica, sans-serif;
    font: size 12px;
-   color:#393B45 }
+   color:#393B45;
+   text-align: center; }
 
  h2
   {font-family:Arial, Helvetica, sans-serif;
    font: size 12px;
-   color:#393B45 }
+   color:#393B45;
+   text-align: center; }
 
 ol
   {font-family:Arial, Helvetica, sans-serif;
    font: size 12px;
-   color:#393B45 }
+   color:#393B45;
+   text-align: center; }
+
+head
+  {text-align: center;}
