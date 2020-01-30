@@ -8,8 +8,9 @@ h1 {
 }
 
 p {
-  font-family: tahoma;
-  font-size: 12px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
+  
 }
 img {
   display: block;
