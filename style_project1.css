@@ -1,15 +1,20 @@
 
 h1{
+  color: darkorange;
   font-family: 'Noto Sans', sans-serif;  
   text-align: center;
     font-size: 30px;;
   }
   
 p{
-    font-family: 'Noto Sans', sans-serif;  
+  color: dimgray;  
+  font-family: 'Noto Sans', sans-serif;  
     font-size: 16px;
     text-align: center;;
   }
 
 img
   { align-content:center ;}
+
+video
+  { align-content: center;}
