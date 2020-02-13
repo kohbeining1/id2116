@@ -14,11 +14,14 @@ p{
   }
 
 img
-  { align-content:center ;}
+  { align-content:center ;
+    margin-right:16px;
+}
 
 video
   { align-content:center ;}
 
 body{
-  text-align: center;
+  text-align: center; 
+    
 }
